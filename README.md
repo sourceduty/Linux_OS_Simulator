@@ -12,6 +12,8 @@ Unlike general-purpose conversational agents, this custom GPT avoids unnecessary
 ### Related Links
 
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
+<br>
+[Arch Linux Simulator](https://github.com/sourceduty/Arch_Linux_Sim)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.

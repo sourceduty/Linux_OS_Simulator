@@ -64,6 +64,8 @@ A star (*) next to a name means that the command is disabled.
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
 <br>
 [Arch Linux Simulator](https://github.com/sourceduty/Arch_Linux_Sim)
+<br>
+[Windows Deviance](https://github.com/sourceduty/Windows_Deviance)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
